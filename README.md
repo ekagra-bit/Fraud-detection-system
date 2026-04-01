@@ -24,6 +24,7 @@ Features:
 - Time
 - Amount
 - Class (0 = Normal, 1 = Fraud)
+- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
